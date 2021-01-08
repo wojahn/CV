@@ -103,7 +103,7 @@ Research Experience {data-icon=laptop}
 
 ### EPSCoR Graduate Research Assistant
 
-Boise State University
+Boise State University, Buerki Lab
 
 Boise, Idaho, USA
 
@@ -115,7 +115,7 @@ Present - 2020
 
 ### Doctoral Student Researcher
 
-Boise State Universiy
+Boise State Universiy, Buerki Lab
 
 Boise, Idaho, USA
 
@@ -128,7 +128,7 @@ Present - 2020
 
 ### Masters Student Researcher
 
-Boise State University
+Boise State University, Buerki Lab
 
 Boise, Idaho, USA
 
@@ -136,6 +136,27 @@ Boise, Idaho, USA
 
 - Investigated the reproducibility of collections and DNA sequences in biodiversity hotspots
 - Went on expedition to Madagascar with Sven Buerki to survey forest
+
+### Undergraduate Research Assistant
+
+Oregon State University, Crump Lab
+
+Corvallis, Oregon, USA
+
+2016 - 2013
+
+- Investigated the microbiome of *Zostera marina* and *Zostera japonica*
+- Collected samples on research cruises off the Oregon coast, on the Columbia River, and in the Arctic Ocean
+
+### Undergraduate Intern
+
+Oregon Department of Fish and Wildlife
+
+Corvallis, Oregon, USA
+
+Winter 2012
+
+- Dissected juvenile Pacific Salmon to remove kidneys for ELISA analysis
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
