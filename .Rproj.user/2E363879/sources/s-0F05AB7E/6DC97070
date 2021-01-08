@@ -3,7 +3,7 @@
     "path": "~/BSU_DRIVE/CV/CV.Rmd",
     "project_path": "CV.Rmd",
     "type": "r_markdown",
-    "hash": "3698998907",
+    "hash": "587042008",
     "contents": "",
     "dirty": false,
     "created": 1610083169672.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "55,13",
-        "scrollLine": "50"
+        "cursorPosition": "7,24",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1610092548,
+    "lastKnownWriteTime": 1610092673,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1610092548447,
+    "last_content_update": 1610092673595,
     "read_only": false,
     "read_only_alternatives": []
 }
