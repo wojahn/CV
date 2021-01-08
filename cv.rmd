@@ -101,7 +101,7 @@ Corvallis, Oregon, USA
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### EPSCoR Research Technician 2
+### EPSCoR Graduate Research Assistant
 
 Boise State University
 
@@ -140,13 +140,21 @@ Boise, Idaho, USA
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### SARE Bioinformatics Instructor
+### Vertically Integrated Projects Mentor
 
 Instructor of R and Data Mining Techniques
 
 Boise, Idaho, USA
 
-2020
+Spring 2021
+
+### EPSCoR Research Technician 2/Bioinformatics Instructor
+
+Instructor of R and Data Mining Techniques for Summer Academic Research Experience (SARE) Class
+
+Boise, Idaho, USA
+
+Summer 2020
 
 
 ### Teaching Assistant
