@@ -88,7 +88,7 @@ Corvallis, Oregon, USA
 
 2016 - 2011
 
-Thesis: Metagenomics and metatranscriptomics of the leaf- and root-associated microbiomes of Zostera marina and Zostera japonica
+Thesis: Metagenomics and metatranscriptomics of the leaf- and root-associated microbiomes of *Zostera marina* and *Zostera japonica*
 
 ### Oregon State University
 
@@ -149,6 +149,19 @@ Corvallis, Oregon, USA
 - Investigated the microbiome of *Zostera marina* and *Zostera japonica*
 - Collected samples on research cruises off the Oregon coast, on the Columbia River, and in the Arctic Ocean
 
+
+:::aside
+### Hobbies 
+
+- **Guitar** 
+- **Bonsai**
+- **Training My Dog**
+- **Gardening**
+- **Weightlifting**
+- **Walking**
+:::
+
+
 ### Undergraduate Intern
 
 Oregon Department of Fish and Wildlife
@@ -164,7 +177,7 @@ Teaching Experience {data-icon=apple}
 
 ### Vertically Integrated Projects Mentor
 
-Instructor of R and Data Mining Techniques
+Instructor of R and Data Mining Techniques for Sven Buerki's Vertically Integrated Projects (VIP) course at Boise State University
 
 Boise, Idaho, USA
 
@@ -172,29 +185,29 @@ Spring 2021
 
 ### EPSCoR Research Technician 2/Bioinformatics Instructor
 
-Instructor of R and Data Mining Techniques for Summer Academic Research Experience (SARE) Class
+Instructor of R and Data Mining Techniques for Summer Academic Research Experience (SARE) Class at Boise State University
 
 Boise, Idaho, USA
 
 Summer 2020
 
 
-### Teaching Assistant
+### Graduate Teaching Assistant
 
-Introductory Cell and Molecular Biology Lab Teaching Assistant
+Introductory Cell and Molecular Biology Lab Teaching Assistant at Boise State University
 
 Boise, Idaho, USA
 
 2020 - 2018
 
-:::aside
-### Scholar Metrics {data-icon=chart-line}
+### Undergraduate Teaching Assistant
 
-- **Citations**: 27
-- **h-index**: 1
-- **i10-index**: 1
-- **RG Score**: 3.69
-:::
+Assisted in teaching introductory French to 7th grade students at Cheldelin Middle School
+
+Corvallis, Oregon, USA
+
+2015 - 2013
+
 
 Grants {data-icon=money}
 --------------------------------------------------------------------------------
@@ -249,6 +262,15 @@ Princeton, Massachusetts, USA
 Accd. 2019
 
 **Wojahn JMA**, Callmander MW, Lowry PP, Buerki S
+
+:::aside
+### Scholar Metrics {data-icon=chart-line}
+
+- **Citations**: 27
+- **h-index**: 1
+- **i10-index**: 1
+- **RG Score**: 3.69
+:::
 
 ### Phylogenetic insights into the systematics of Sapindaceae in Madagascar: How have things advanced since Capuron published his family treatment in 1969?
 
