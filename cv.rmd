@@ -61,7 +61,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Boise State University
 
-PhD in Ecology, Evolution, and Biology Emphasis in Global Change
+PhD in Ecology, Evolution, and Behavior Emphasis in Global Change
 
 Boise, Idaho, USA
 
