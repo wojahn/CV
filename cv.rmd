@@ -24,6 +24,7 @@ Contact Info {#contact}
 - <i class="fa fa-github"></i> [github.com/wojahn](https://github.com/wojahn)
 - **ORCID** [0000-0002-5060-0798](https://orcid.org/0000-0002-5060-0798)
 - **ResearchGate** [John_Wojahn](https://www.researchgate.net/profile/John_Wojahn)
+- <i class="fa fa-twitter"></i> [J_M_A_Wojahn](https://twitter.com/J_M_A_Wojahn)
 - <i class="fa fa-phone"></i> +1 208-340-8626
 - For more information, please contact me via email
 
@@ -35,7 +36,7 @@ Skills {#skills}
 - <i class="fa fa-laptop"></i> **Programming**: R, C/C++, RMarkdown, LaTeX, Bash, Git, GitHub
 - <i class="fa fa-flask"></i> **Laboratory**: DNA Extraction, PCR, RNA Extraction, Cultivation
 - <i class="fa fa-comments"></i> **Languages**: English, French
-- <i class="fa fa-legal"></i> **Notary**: Comm. 67582
+- <i class="fa fa-stamp"></i> **Notary**: Comm. 67582
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -98,7 +99,7 @@ Corvallis, Oregon, USA
 2016 - 2011
 
 
-Research Experience {data-icon=laptop}
+Research Experience {data-icon=lightbulb-o}
 --------------------------------------------------------------------------------
 
 ### EPSCoR Graduate Research Assistant
@@ -158,7 +159,7 @@ Winter 2012
 
 - Dissected juvenile Pacific Salmon to remove kidneys for ELISA analysis
 
-Teaching Experience {data-icon=chalkboard-teacher}
+Teaching Experience {data-icon=apple}
 --------------------------------------------------------------------------------
 
 ### Vertically Integrated Projects Mentor
@@ -209,7 +210,7 @@ Corvallis, Oregon, USA
 - $1000
 
 
-Posters and Presentations {data-icon=eye}
+Posters and Presentations {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### G2PMineR: A genome to phenome literature review approach
