@@ -33,7 +33,7 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-lightbulb-o"></i> **Research**: Reproducible Science, Phylogenomics, Botany, Computational Biology
-- <i class="fa fa-laptop"></i> **Programming**: R, C/C++, RMarkdown, LaTeX, Bash, Git, GitHub
+- <i class="fa fa-laptop"></i> **Programming**: R, C/C++, RMarkdown, Python, LaTeX, Bash, Git, GitHub
 - <i class="fa fa-flask"></i> **Laboratory**: DNA Extraction, PCR, RNA Extraction, Cultivation
 - <i class="fa fa-comments"></i> **Languages**: English, French
 - <i class="fa fa-stamp"></i> **Notary**: Comm. 67582
@@ -155,8 +155,9 @@ Corvallis, Oregon, USA
 
 - **Guitar** 
 - **Bonsai**
-- **Training My Dog**
+- **Dogs**
 - **Gardening**
+- **Traveling**
 - **Weightlifting**
 - **Walking**
 :::
