@@ -21,9 +21,9 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> johnmichaelwojahn@gmail.com
-- <i class="fa fa-github"></i> [github.com/wojahn](https://github.com/wojahn)
 - **ORCID** [0000-0002-5060-0798](https://orcid.org/0000-0002-5060-0798)
 - **ResearchGate** [John_Wojahn](https://www.researchgate.net/profile/John_Wojahn)
+- <i class="fa fa-github"></i> [github.com/wojahn](https://github.com/wojahn)
 - <i class="fa fa-twitter"></i> [J_M_A_Wojahn](https://twitter.com/J_M_A_Wojahn)
 - <i class="fa fa-phone"></i> +1 208-340-8626
 - For more information, please contact me via email
@@ -82,7 +82,7 @@ Thesis: A metanalysis of sequences of vascular plants in the world’s biodivers
 
 ### Oregon State University
 
-Honors BS in Marine Biology
+BS in Marine Biology (Honors, with Minor in French)
 
 Corvallis, Oregon, USA
 
@@ -92,7 +92,7 @@ Thesis: Metagenomics and metatranscriptomics of the leaf- and root-associated mi
 
 ### Oregon State University
 
-Honors BS in Microbiology
+BS in Microbiology (Honors, with Minor in Chemistry)
 
 Corvallis, Oregon, USA
 
