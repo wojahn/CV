@@ -68,7 +68,7 @@ Boise, Idaho, USA
 
 Present - 2020
 
-Thesis: TBD
+Equal Co-Advisors: Sven Buerki and Martin W. Callmander
 
 ### Boise State University
 
@@ -78,7 +78,7 @@ Boise, Idaho, USA
 
 2020 - 2018
 
-Thesis: A metanalysis of sequences of vascular plants in the world’s biodiversity hotspots with a special section on Madagascar
+Major Advisor: Sven Buerki
 
 ### Oregon State University
 
@@ -88,7 +88,7 @@ Corvallis, Oregon, USA
 
 2016 - 2011
 
-Thesis: Metagenomics and metatranscriptomics of the leaf- and root-associated microbiomes of *Zostera marina* and *Zostera japonica*
+Major advisor: Byron C. Crump
 
 ### Oregon State University
 
@@ -98,6 +98,7 @@ Corvallis, Oregon, USA
 
 2016 - 2011
 
+Major advisor: Byron C. Crump
 
 Research Experience {data-icon=lightbulb-o}
 --------------------------------------------------------------------------------
