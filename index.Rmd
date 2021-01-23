@@ -1,0 +1,297 @@
+---
+title: "Michael's resume"
+author: John M. A. Wojahn
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    #remotes::install_github("rstudio/pagedown") if pagebreak issues
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![John M. A. Wojahn](/Users/Mike/BSU_DRIVE/CV/WojahnPhoto.jpg){width=100%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> johnmichaelwojahn@gmail.com
+- **ORCID** [0000-0002-5060-0798](https://orcid.org/0000-0002-5060-0798)
+- **ResearchGate** [John_Wojahn](https://www.researchgate.net/profile/John_Wojahn)
+- <i class="fa fa-github"></i> [github.com/wojahn](https://github.com/wojahn)
+- <i class="fa fa-twitter"></i> [J_M_A_Wojahn](https://twitter.com/J_M_A_Wojahn)
+- <i class="fa fa-phone"></i> +1 208-340-8626
+- For more information, please contact me via email
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-lightbulb-o"></i> **Research**: Reproducible Science, Phylogenomics, Botany, Computational Biology
+- <i class="fa fa-laptop"></i> **Programming**: R, C/C++, RMarkdown, Python, LaTeX, Bash, Git, GitHub
+- <i class="fa fa-flask"></i> **Laboratory**: DNA Extraction, PCR, RNA Extraction, Cultivation
+- <i class="fa fa-comments"></i> **Languages**: English, French
+- <i class="fa fa-stamp"></i> **Notary**: Comm. 67582
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+John M. A. Wojahn {#title}
+--------------------------------------------------------------------------------
+
+### In a few years I will be searching for a postdoctoral position
+
+I am broadly interested in plant evolution, bioinformatics, and reproducible science
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Boise State University
+
+PhD in Ecology, Evolution, and Behavior Emphasis in Global Change
+
+Boise, Idaho, USA
+
+Present - 2020
+
+Equal Co-Advisors: Sven Buerki and Martin W. Callmander
+
+### Boise State University
+
+MS in Biology
+
+Boise, Idaho, USA
+
+2020 - 2018
+
+Major Advisor: Sven Buerki
+
+### Oregon State University
+
+BS in Marine Biology (Honors, with Minor in French)
+
+Corvallis, Oregon, USA
+
+2016 - 2011
+
+Major Advisor: Byron C. Crump
+
+### Oregon State University
+
+BS in Microbiology (Honors, with Minor in Chemistry)
+
+Corvallis, Oregon, USA
+
+2016 - 2011
+
+Major Advisor: Byron C. Crump
+
+Research Experience {data-icon=lightbulb-o}
+--------------------------------------------------------------------------------
+
+### EPSCoR Graduate Research Assistant
+
+Boise State University, Buerki Lab
+
+Boise, Idaho, USA
+
+Present - 2020
+
+- Provider of bioinformatics programming support for the GEM3 project in Sven Buerki's lab
+- Developed bioinformatics tools for the GEM3 community
+
+
+### Doctoral Student Researcher
+
+Boise State Universiy, Buerki Lab
+
+Boise, Idaho, USA
+
+Present - 2020
+
+- Investigated the reproducibility of collections and DNA sequences in biodiversity hotspots
+- Examined phylogenomics of members of the Pandancaeae
+
+
+
+### Masters Student Researcher
+
+Boise State University, Buerki Lab
+
+Boise, Idaho, USA
+
+2020 - 2017
+
+- Investigated the reproducibility of collections and DNA sequences in biodiversity hotspots
+- Went on expedition to Madagascar with Sven Buerki to survey forest
+
+### Undergraduate Research Assistant
+
+Oregon State University, Crump Lab
+
+Corvallis, Oregon, USA
+
+2016 - 2013
+
+- Investigated the microbiome of *Zostera marina* and *Zostera japonica*
+- Collected samples on research cruises off the Oregon coast, on the Columbia River, and in the Arctic Ocean
+
+
+:::aside
+### Hobbies 
+
+- **Guitar** 
+- **Bonsai**
+- **Drawing/Engraving**
+- **Weightlifting**
+- **Dogs**
+- **Gardening**
+- **Traveling**
+- **Walking**
+:::
+
+
+### Undergraduate Intern
+
+Oregon Department of Fish and Wildlife
+
+Corvallis, Oregon, USA
+
+Winter 2012
+
+- Dissected juvenile Pacific Salmon to remove kidneys for ELISA analysis
+
+Teaching Experience {data-icon=apple}
+--------------------------------------------------------------------------------
+
+### Vertically Integrated Projects Mentor
+
+Instructor of R and Data Mining Techniques for Sven Buerki's Vertically Integrated Projects (VIP) course at Boise State University
+
+Boise, Idaho, USA
+
+Spring 2021
+
+### EPSCoR Research Technician 2/Bioinformatics Instructor
+
+Instructor of R and Data Mining Techniques for Summer Academic Research Experience (SARE) Class at Boise State University
+
+Boise, Idaho, USA
+
+Summer 2020
+
+
+### Graduate Teaching Assistant
+
+Introductory Cell and Molecular Biology Lab Teaching Assistant at Boise State University
+
+Boise, Idaho, USA
+
+2020 - 2018
+
+### Undergraduate Teaching Assistant
+
+Assisted in teaching introductory French to 7th grade students at Cheldelin Middle School
+
+Corvallis, Oregon, USA
+
+2015 - 2013
+
+
+Grants {data-icon=money}
+--------------------------------------------------------------------------------
+
+### University Honors College DeLoach Work Scholarship
+
+Oregon State University
+
+Corvallis, Oregon, USA
+
+2014
+
+- $1000
+
+
+Posters and Presentations {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### G2PMineR: A genome to phenome literature review approach
+
+Poster for 2020 GEM3 Annual Meeting
+
+Boise, Idaho, USA
+
+2020
+
+**Wojahn JMA**, Galla SJ, Buerki S
+
+### Developing a rapid plant community survey for use in biodiversity hotspots
+
+Poster for the Forum on Biodiversity of Global Hotspots 
+
+Boise, Idaho, USA
+
+2018
+
+**Wojahn JMA**, Buerki S
+
+
+
+
+Peer-Reviewed Publications {data-icon=file-text}
+--------------------------------------------------------------------------------
+
+
+### Molecular systematics and biogeography of the angiosperm flora of Madagascar
+
+The New Natural History of Madagascar. Princeton University Press. 2022
+
+Princeton, Massachusetts, USA
+
+Accd. 2019
+
+**Wojahn JMA**, Callmander MW, Lowry PP, Buerki S
+
+:::aside
+### Scholar Metrics {data-icon=chart-line}
+
+- **Citations**: 27
+- **h-index**: 1
+- **i10-index**: 1
+- **RG Score**: 3.69
+:::
+
+### Phylogenetic insights into the systematics of Sapindaceae in Madagascar: How have things advanced since Capuron published his family treatment in 1969?
+
+The New Natural History of Madagascar. Princeton University Press. 2022
+
+Princeton, Massachusetts, USA
+
+Accd. 2019
+
+Buerki S, Philipson P, Lowry PP, **Wojahn JMA**, Andriambololonera S, Callmander MW
+
+### Metatranscriptomics and amplicon sequencing reveal mutualisms in seagrass microbiomes
+
+Frontiers in Microbiology. 2018 9:388
+
+Lausanne, Switzerland
+
+2018
+
+Crump BC, **Wojahn JMA**, Tomas F, Mueller RS
