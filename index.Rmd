@@ -1,5 +1,5 @@
 ---
-title: "Michael's resume"
+title: "Wojahn CV"
 author: John M. A. Wojahn
 date: "`r Sys.Date()`"
 output:
