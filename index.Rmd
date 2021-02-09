@@ -230,6 +230,17 @@ Corvallis, Oregon, USA
 Posters and Presentations {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
+### Testing the Reproducibility of Collection and Sequencing Efforts for the Biodiversity Hotspot Flora and Producing a Phylogeny of the Pandanaceae to Assess Evolutionary Distinctiveness and Risk of Extinction
+
+Poster for 2021 Graduate Proposal Showcase
+
+Boise, Idaho, USA
+
+2021
+
+**Wojahn JMA**, Callmander MW, Smith J, Novack S, Buerki S
+
+
 ### G2PMineR: A genome to phenome literature review approach
 
 Poster for 2020 GEM3 Annual Meeting
