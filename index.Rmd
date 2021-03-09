@@ -281,10 +281,10 @@ Basel, Switzerland
 :::aside
 ### Scholar Metrics {data-icon=chart-line}
 
-- **Citations**: 34
+- **Citations**: 36
 - **h-index**: 1
 - **i10-index**: 1
-- **RG Score**: 3.69
+- **RG Score**: 5.16
 :::
 
 ### Molecular systematics and biogeography of the angiosperm flora of Madagascar
