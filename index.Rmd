@@ -319,6 +319,35 @@ Lausanne, Switzerland
 Crump BC, **Wojahn JMA**, Tomas F, Mueller RS
 
 
+Diversity, Equity, and Inclusion
+--------------------------------------------------------------------------------
+
+### Vertically Integrated Projects (VIP) DEI
+
+Introduced R and data mining techniques to undergraduates within the framework of addressing larger research questions
+
+Boise, Idaho, USA
+
+2020-present
+
+
+### Summer Authentic Research Experience (SARE) DEI
+
+Introduced R and data mining techniques to minority and first-generation undergraduates
+
+Boise, Idaho, USA
+
+Summer 2020
+
+
+### Plant identification for people with visual impairement
+
+Posted an accessible guide on plant identification for people with visual impairments online at https://github.com/wojahn/AcessiblePlantID
+
+Boise, Idaho, USA
+
+2019
+
 Leadership {data-icon=user}
 --------------------------------------------------------------------------------
 
