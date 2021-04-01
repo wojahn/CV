@@ -270,7 +270,7 @@ Peer-Reviewed Publications {data-icon=file-text}
 
 ### G2PMineR:A Genome to Phenome Literature Review Approach
 
-Genes. 12:293
+Genes. 12:293 https://doi.org/10.3390/genes12020293
 
 Basel, Switzerland
 
@@ -310,7 +310,7 @@ Buerki S, Philipson P, Lowry PP, **Wojahn JMA**, Andriambololonera S, Callmander
 
 ### Metatranscriptomics and amplicon sequencing reveal mutualisms in seagrass microbiomes
 
-Frontiers in Microbiology. 2018 9:388
+Frontiers in Microbiology. 2018 9:388 https://doi.org/10.3389/fmicb.2018.00388
 
 Lausanne, Switzerland
 
@@ -322,25 +322,25 @@ Crump BC, **Wojahn JMA**, Tomas F, Mueller RS
 Diversity, Equity, and Inclusion
 --------------------------------------------------------------------------------
 
-### Vertically Integrated Projects (VIP) DEI
+### Vertically Integrated Projects (VIP)
 
-Introduced R and data mining techniques to undergraduates within the framework of addressing larger research questions
+Mentored undergraduates within the framework of addressing larger research questions
 
 Boise, Idaho, USA
 
 2020-present
 
 
-### Summer Authentic Research Experience (SARE) DEI
+### Summer Authentic Research Experience (SARE)
 
-Introduced R and data mining techniques to minority and first-generation undergraduates
+Mentored minority and first-generation undergraduates
 
 Boise, Idaho, USA
 
 Summer 2020
 
 
-### Plant identification for people with visual impairement
+### Plant identification for people with visual impairment
 
 Posted an accessible guide on plant identification for people with visual impairments online at https://github.com/wojahn/AcessiblePlantID
 
