@@ -342,7 +342,7 @@ Summer 2020
 
 ### Plant identification for people with visual impairment
 
-Posted an accessible guide on plant identification for people with visual impairments online at https://github.com/wojahn/AcessiblePlantID
+Posted an accessible guide on plant identification for people with visual impairments online at https://wojahn.github.io/AccessiblePlantID/
 
 Boise, Idaho, USA
 
