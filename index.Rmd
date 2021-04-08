@@ -53,9 +53,9 @@ Main
 John M. A. Wojahn {#title}
 --------------------------------------------------------------------------------
 
-### In a few years I will be searching for a postdoctoral position
+### After I graduate from my doctoral program I hope to enter into a postdoctoral research position.
 
-I am broadly interested in plant evolution, bioinformatics, and reproducible science
+My research interests include evolutionary plant biology, genomics, bioinformatics software development, and reproducible science.
 
 
 Education {data-icon=graduation-cap data-concise=true}
