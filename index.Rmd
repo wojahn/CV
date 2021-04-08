@@ -176,6 +176,62 @@ Winter 2012
 
 - Dissected juvenile Pacific Salmon to remove kidneys for ELISA analysis
 
+
+Peer-Reviewed Publications {data-icon=file-text}
+--------------------------------------------------------------------------------
+
+
+### G2PMineR:A Genome to Phenome Literature Review Approach
+
+Genes. 12:293 https://doi.org/10.3390/genes12020293
+
+Basel, Switzerland
+
+2021
+
+**Wojahn JMA**, Galla SJ, Melton AE, Buerki S
+
+:::aside
+### Scholar Metrics {data-icon=chart-line}
+
+- **Citations**: 36
+- **h-index**: 1
+- **i10-index**: 1
+- **RG Score**: 5.16
+:::
+
+### Molecular systematics and biogeography of the angiosperm flora of Madagascar
+
+The New Natural History of Madagascar. Princeton University Press. 2022
+
+Princeton, Massachusetts, USA
+
+Accd. 2019
+
+**Wojahn JMA**, Callmander MW, Lowry PP, Buerki S
+
+
+### Phylogenetic insights into the systematics of Sapindaceae in Madagascar: How have things advanced since Capuron published his family treatment in 1969?
+
+The New Natural History of Madagascar. Princeton University Press. 2022
+
+Princeton, Massachusetts, USA
+
+Accd. 2019
+
+Buerki S, Philipson P, Lowry PP, **Wojahn JMA**, Andriambololonera S, Callmander MW
+
+### Metatranscriptomics and amplicon sequencing reveal mutualisms in seagrass microbiomes
+
+Frontiers in Microbiology. 2018 9:388 https://doi.org/10.3389/fmicb.2018.00388
+
+Lausanne, Switzerland
+
+2018
+
+Crump BC, **Wojahn JMA**, Tomas F, Mueller RS
+
+
 Teaching Experience {data-icon=apple}
 --------------------------------------------------------------------------------
 
@@ -260,63 +316,6 @@ Boise, Idaho, USA
 2018
 
 **Wojahn JMA**, Buerki S
-
-
-
-
-Peer-Reviewed Publications {data-icon=file-text}
---------------------------------------------------------------------------------
-
-
-### G2PMineR:A Genome to Phenome Literature Review Approach
-
-Genes. 12:293 https://doi.org/10.3390/genes12020293
-
-Basel, Switzerland
-
-2021
-
-**Wojahn JMA**, Galla SJ, Melton AE, Buerki S
-
-:::aside
-### Scholar Metrics {data-icon=chart-line}
-
-- **Citations**: 36
-- **h-index**: 1
-- **i10-index**: 1
-- **RG Score**: 5.16
-:::
-
-### Molecular systematics and biogeography of the angiosperm flora of Madagascar
-
-The New Natural History of Madagascar. Princeton University Press. 2022
-
-Princeton, Massachusetts, USA
-
-Accd. 2019
-
-**Wojahn JMA**, Callmander MW, Lowry PP, Buerki S
-
-
-### Phylogenetic insights into the systematics of Sapindaceae in Madagascar: How have things advanced since Capuron published his family treatment in 1969?
-
-The New Natural History of Madagascar. Princeton University Press. 2022
-
-Princeton, Massachusetts, USA
-
-Accd. 2019
-
-Buerki S, Philipson P, Lowry PP, **Wojahn JMA**, Andriambololonera S, Callmander MW
-
-### Metatranscriptomics and amplicon sequencing reveal mutualisms in seagrass microbiomes
-
-Frontiers in Microbiology. 2018 9:388 https://doi.org/10.3389/fmicb.2018.00388
-
-Lausanne, Switzerland
-
-2018
-
-Crump BC, **Wojahn JMA**, Tomas F, Mueller RS
 
 
 Diversity, Equity, and Inclusion
