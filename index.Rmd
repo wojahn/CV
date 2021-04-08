@@ -318,7 +318,7 @@ Boise, Idaho, USA
 **Wojahn JMA**, Buerki S
 
 
-Diversity, Equity, and Inclusion
+Diversity, Equity, and Inclusion {data-icon=group}
 --------------------------------------------------------------------------------
 
 ### Vertically Integrated Projects (VIP)
