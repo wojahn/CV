@@ -27,15 +27,13 @@ Contact Info {#contact}
 - <i class="fa fa-github"></i> [github.com/wojahn](https://github.com/wojahn)
 - <i class="fa fa-twitter"></i> [J_M_A_Wojahn](https://twitter.com/J_M_A_Wojahn)
 - <i class="fa fa-phone"></i> +1 208-340-8626
-- For more information, please contact me via email
-
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-lightbulb-o"></i> **Research**: Reproducible Science, Phylogenomics, Botany, Computational Biology
-- <i class="fa fa-laptop"></i> **Programming**: R, C/C++, RMarkdown, Python, LaTeX, Bash, Git, GitHub
-- <i class="fa fa-flask"></i> **Laboratory**: DNA Extraction, PCR, RNA Extraction, Cultivation
+- <i class="fa fa-laptop"></i> **Programming**: R (Software Developer), C/C++, RMarkdown, Python, LaTeX, Bash, Git, GitHub, UNIX, LINUX, Beowulf Clusters, Neural Networks/Artificial Intelligence
+- <i class="fa fa-flask"></i> **Laboratory**: DNA/RNA Extraction, PCR, DNA/RNA Quantification, Morphometry, Cultivation
 - <i class="fa fa-comments"></i> **Languages**: English, French
 - <i class="fa fa-stamp"></i> **Notary**: Comm. 67582
 
@@ -43,7 +41,6 @@ Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 
-Last updated on `r Sys.Date()`.
 
 
 
@@ -176,6 +173,16 @@ Winter 2012
 
 - Dissected juvenile Pacific Salmon to remove kidneys for ELISA analysis
 
+### Undergraduate Intern
+
+Oregon State University Hatfield Marine Science Center
+
+Newport, Oregon, USA
+
+Spring 2012 - Winter 2011
+
+- Enumerated fish eggs for Itchung Cheung
+
 
 Peer-Reviewed Publications {data-icon=file-text}
 --------------------------------------------------------------------------------
@@ -235,6 +242,14 @@ Crump BC, **Wojahn JMA**, Tomas F, Mueller RS
 Teaching Experience {data-icon=apple}
 --------------------------------------------------------------------------------
 
+### EPSCoR GEM3 Summer Academic Research Experience Mentor
+
+Instructor of R and Laboratory Techniques for EPSCoR GEM3 Summer Academic Research Experience (SARE) Class at Boise State University
+
+Boise, Idaho, USA
+
+Summer 2021
+
 ### Vertically Integrated Projects Mentor
 
 Instructor of R and Data Mining Techniques for Sven Buerki's Vertically Integrated Projects (VIP) course at Boise State University
@@ -254,7 +269,7 @@ Summer 2020
 
 ### Graduate Teaching Assistant
 
-Introductory Cell and Molecular Biology Lab Teaching Assistant at Boise State University
+Introductory Cell and Molecular Biology Lab Instructor at Boise State University
 
 Boise, Idaho, USA
 
@@ -321,13 +336,13 @@ Boise, Idaho, USA
 Diversity, Equity, and Inclusion {data-icon=group}
 --------------------------------------------------------------------------------
 
-### Vertically Integrated Projects (VIP)
+### Summer Authentic Research Experience (SARE)
 
-Mentored undergraduates within the framework of addressing larger research questions
+Mentored minority and first-generation undergraduates
 
 Boise, Idaho, USA
 
-2020-present
+Summer 2021
 
 
 ### Summer Authentic Research Experience (SARE)
@@ -339,7 +354,7 @@ Boise, Idaho, USA
 Summer 2020
 
 
-### Plant identification for people with visual impairment
+### Plant identification for people with visual impairments
 
 Posted an accessible guide on plant identification for people with visual impairments online at https://wojahn.github.io/AccessiblePlantID/
 
