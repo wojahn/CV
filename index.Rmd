@@ -33,26 +33,26 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> johnmichaelwojahn@gmail.com
 - **ORCID** [0000-0002-5060-0798](https://orcid.org/0000-0002-5060-0798)
-- **ResearchGate** [John_Wojahn](https://www.researchgate.net/profile/John_Wojahn)
+- **BlueSky** [wojahn.bsky.social](https://bsky.app/profile/wojahn.bsky.social)
 - <i class="fa fa-github"></i> [github.com/wojahn](https://github.com/wojahn)
 - <i class="fa fa-phone"></i> +1 208 340 8626
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-lightbulb-o"></i> **Research**: Reproducible Science, Phylogenomics, Botany, Computational Biology
-- <i class="fa fa-laptop"></i> **Programming**: ***Advanced:*** R (Software Developer), C/C++, RMarkdown, UNIX/LINUX; ***Intermediate:*** Bash, Python, Git, Clusters (Beowulf and SLURM), Keras, TensorFlow; ***Proficient:*** LaTeX, HTML
-- <i class="fa fa-flask"></i> **Laboratory**: DNA/RNA Extraction, PCR, Angiosperm 353 Library Prep, DNA/RNA Quantification, Morphometry, Cultivation
-- <i class="fa fa-comments"></i> **Languages**: English, French
+- <i class="fa fa-lightbulb-o"></i> **Research**: Reproducible Science, Phylogenomics, Botany, Computational Biology, Systematics
+- <i class="fa fa-laptop"></i> **Programming**: ***Advanced:*** R (Package Developer), C, RMarkdown, UNIX/LINUX Bash; ***Intermediate:*** C++, Python, Git, Beowulf Clusters, Keras, TensorFlow; ***Basic:*** LaTeX, HTML, Fortran, Julia
+- <i class="fa fa-flask"></i> **Laboratory**: DNA/RNA Extraction, PCR, Library Prep, Morphometry, Differential Staining, Cultivation
+- <i class="fa fa-comments"></i> **Languages**: English (Native), French (Oral:B2; Written:C2)
 
 
 Main
 ================================================================================
 
-John M. A. Wojahn {#title}
+**John M. A. Wojahn** {#title}
 --------------------------------------------------------------------------------
 
-### My research interests are in the fields of phylogenomics, evolutionary plant biology, adaptive capacity, and bioinformatics.
+### Botanist specializing in molecular systematics and evolutionary biology 
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -124,7 +124,19 @@ Oregon State University
 Peer-Reviewed Publications {data-icon=file-text}
 --------------------------------------------------------------------------------
 
-### Update on the phylogenetic framework of Malagasy angiosperms
+### <span style="color:blue">\#6</span> *Pandanus* Plastomes Decoded: When Climate Mirrors Morphology and Phylogenetic Relationships 
+American Journal of Botany. 111:e16461.
+https://doi.org/10.1002/ajb2.16461
+
+St. Louis, Missouri, USA
+
+2025
+
+**Wojahn JMA**, Callmander MW, Buerki S
+
+
+
+### <span style="color:blue">\#5</span> Update on the phylogenetic framework of Malagasy angiosperms
 
 In S. M. Goodman (ed.), The new natural history of Madagascar, pp. 464-470. <br> Princeton University Press. https://doi.org/10.2307/j.ctv2ks6tbb.58
 
@@ -135,7 +147,7 @@ Princeton, New Jersey, USA
 **Wojahn JMA**, Callmander MW, Lowry PP, Buerki S
 
 
-### Sapindaceae
+### <span style="color:blue">\#4</span> Sapindaceae
 
 In S. M. Goodman (ed.), The new natural history of Madagascar, pp. 685-690. <br> Princeton University Press. https://doi.org/10.2307/j.ctv2ks6tbb.84
 
@@ -145,9 +157,9 @@ Princeton, New Jersey, USA
 
 Buerki S, Philipson P, Lowry PP, **Wojahn JMA**, Andriambololonera S, Callmander MW
 
-### Meta-Analysis Reveals Challenges and Gaps for Genome-to-Phenome Research Underpinning Plant Drought Response 
+### <span style="color:blue">\#3</span> Meta-Analysis Reveals Challenges and Gaps for Genome-to-Phenome Research Underpinning Plant Drought Response 
 
-Int. J. Mol. Sci. 2022, 23(20), 12297 https://doi.org/10.3390/ijms232012297
+International Journal of Molecular Sciences. 2022, 23(20), 12297 https://doi.org/10.3390/ijms232012297
 
 Basel, Switzerland
 
@@ -156,7 +168,7 @@ Basel, Switzerland
 Melton AE, Galla SJ, Dumanguit CD, **Wojahn JMA**, Novak S, Serpe M, Martinez P, Buerki S
 
 
-### G2PMineR:A Genome to Phenome Literature Review Approach
+### <span style="color:blue">\#2</span> G2PMineR:A Genome to Phenome Literature Review Approach
 
 Genes. 12:293 https://doi.org/10.3390/genes12020293
 
@@ -166,7 +178,7 @@ Basel, Switzerland
 
 **Wojahn JMA**, Galla SJ, Melton AE, Buerki S
 
-### Metatranscriptomics and amplicon sequencing reveal mutualisms in seagrass microbiomes
+### <span style="color:blue">\#1</span> Metatranscriptomics and Amplicon Sequencing Reveal Mutualisms in Seagrass Microbiomes
 
 Frontiers in Microbiology. 2018 9:388 https://doi.org/10.3389/fmicb.2018.00388
 
@@ -253,7 +265,7 @@ Teaching Experience {data-icon=apple}
 
 ### Teaching Assistant, Doctoral
 
-Introductory Cell and Molecular Biology Lab Instructor at Boise State University
+Introductory Cell and Molecular Biology Lab Instructor at Boise State University. [Link to positive teaching reviews](https://wojahn.github.io/TeachingReviews/)
 
 Boise, Idaho, USA
 
@@ -295,7 +307,7 @@ Summer 2020
 
 ### Teaching Assistant, Masters
 
-Introductory Cell and Molecular Biology Lab Instructor at Boise State University
+Introductory Cell and Molecular Biology Lab Instructor at Boise State University. [Link to positive teaching reviews](https://wojahn.github.io/TeachingReviews/)
 
 Boise, Idaho, USA
 
@@ -326,6 +338,15 @@ Corvallis, Oregon, USA
 Awards and Honor Societies {data-icon=star}
 --------------------------------------------------------------------------------
 
+### Award for Excellence in Teaching (Graduate Teaching Assistant)
+
+Won the Department of Biological Sciences excellence in graduate teaching award for 2024.
+
+Boise, Idaho, USA
+
+2024
+
+
 ### Dean's Scholar, College of Arts and Sciences
 
 Won the Dean's Scholar prize for the 2024 Graduate Showcase.
@@ -353,6 +374,15 @@ Elected 2023
 
 Posters, Presentations, and Conferences {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+
+### Upcoming conference honoring Chris Davidson
+
+Co-organizer of the conference.
+
+Boise, Idaho, USA
+
+TBD 2025
+
 ### Plastome phylogenetic analysis of Pandanus Parkinson: insights into adaptations and taxonomic recommendations
 
 Poster for 2024 BSU Graduate Showcase
@@ -462,7 +492,7 @@ Boise, Idaho, USA
 
 ### Out in Science, Technology, Engineering, and Mathematics (oSTEM) Oregon State University chapter
 
-Undergraduate member of oSTEM@OSU, a non-profit student association for LGBTQ+ people in the STEM community.
+Undergraduate member of oSTEMatOSU, a non-profit student association for LGBTQ+ people in the STEM community.
 
 Corvallis, OR, USA
 
@@ -505,7 +535,6 @@ Software Products {data-icon=laptop}
 ### NESS
 
 The Nexus for Empowered Student Societies (NESS) is a forum aims to provide a space for officers of student-led organizations to share their insights in posts called "Nessies". 
-
 [Link here](https://nessforum.wixsite.com/ness "NESS")
 
 Boise, Idaho, USA
@@ -611,60 +640,31 @@ Misawa AFB, Aomori Prefecture, Japan
 1998
 
 
-Hobbies {data-icon=heart data-concise=true}
+Miscellaneous Skills {data-icon=heart data-concise=true}
 --------------------------------------------------------------------------------
 
-### Pets
+### Tailoring 
 
-I have a dog (Chérie)
+Skilled at modification and construction of formalwear and other garments, as well as mascot, cosplay, and Halloween costumes.
 
-N/A
+Boise, Idaho, USA
 
-N/A
-
-
-![Cherie](Dog.jpg){width=20%}
-
-
-### Guitar
-
-Acoustic and Electric
-
-N/A
-
-N/A
+2016-Present
 
 
 ### Bonsai
 
-Member of the American Bonsai Society
-
-Bristol, Indiana USA
-
-N/A
-
-
-### Drawing/Engraving
-
-4th generation engraver
-
-Manchester-by-the-Sea, Massachusetts, USA
-
-N/A
-
-
-### Costume Design and Construction
-
-Design and sewing of partial or full-body costumes
+Member of the American Bonsai Society, focusing on the use of trees indiginous to North America.
 
 Boise, Idaho, USA
 
-N/A
+2005-Present
 
-### Tai Chi (Tàijíquán)
+### 5th Generation Scrimshander *(only on artificial materials)*
 
-Yang style, taught by R. R. Carper
+5th generation scrimshander (4th: PM Wojahn neé Houghton b. 1958, 3rd: WW Houghton b. 1925, 2nd: CH Houghton b. 1885, 1st: JE Houghton b. 1857).
 
-Corvallis, Oregon, USA
+Manchester-by-the-Sea, Massachusetts, USA
 
-N/A
+2000-Present
+
